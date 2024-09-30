@@ -9,6 +9,9 @@ sub()
   printf("Sub");
 }
   ;
-div();
+div()
+{
+	printf("ABC");
+}
 exit();
 }
