@@ -4,7 +4,11 @@ add()
 {
   print("addition");
 }
-sub();
+sub()
+{ 
+  printf("Sub");
+}
+  ;
 div();
 exit();
 }
