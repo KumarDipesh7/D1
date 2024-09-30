@@ -1,6 +1,9 @@
 main()
 {
-add();
+add()
+{
+  print("addition");
+}
 sub();
 div();
 exit();
